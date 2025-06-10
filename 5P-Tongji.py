@@ -117,7 +117,8 @@ if __name__ == "__main__":
         }
         to_users = [
             "oXUv66MibUi7VInLBf7AHqMIY438",
-            "oXUv66DvDIoQG39Vnspwj97QVLn4"
+            "oXUv66DvDIoQG39Vnspwj97QVLn4",
+            "oXUv66HUVNyZ0Hd8RWKmkVV1dkAs"
         ]
         template_id = "895d_IyG9jyQDDKVNomDrEG3m6U5dtPA9wJXAJzewek"  # 去掉逗号，确保是字符串
         common_data = {
